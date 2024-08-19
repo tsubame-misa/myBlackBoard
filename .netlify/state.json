@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Wada",
+			"country": {
+				"code": "JP",
+				"name": "Japan"
+			},
+			"subdivision": {
+				"code": "13",
+				"name": "Tokyo"
+			},
+			"timezone": "Asia/Tokyo",
+			"latitude": 35.5621,
+			"longitude": 139.8972
+		},
+		"timestamp": 1724054420761
+	}
+}
